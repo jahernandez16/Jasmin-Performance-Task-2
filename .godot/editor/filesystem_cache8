@@ -1,7 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702595290
+::res://::1702597158
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401875::1702595291::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702401875::1702595291::1::::<><>::
+enemy.tscn::PackedScene::424645578767861769::1702597018::0::1::::<><>::uid://clwpo83yorvtm::::res://enemy.png
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401875::1702595291::1::::<><>::
 icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1702595291::1::::<><>::
+player.gd::GDScript::-1::1702597017::0::1::::<>Area2D<>::
+player.tscn::PackedScene::4566997325730519769::1702597023::0::1::::<><>::res://player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
 README.md::TextFile::-1::1702595196::0::1::::<><>::
+world.tscn::PackedScene::5206856530568976362::1702597017::0::1::::<><>::uid://b6cj1qglxxkbh::::res://player.tscn<>uid://gbx36lt66sfp::::res://enemy.tscn
